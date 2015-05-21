@@ -53,7 +53,4 @@ turnOnBoth()
 time.sleep(5)
 turnOffBoth()
 
-
-//TEST TEST
-
 GPIO.cleanup()
