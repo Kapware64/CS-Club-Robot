@@ -1,4 +1,4 @@
-mport random
+import random
 import re
 
 WORDS = ["MEANING", "OF", "LIFE"]                                               //input to listen for
